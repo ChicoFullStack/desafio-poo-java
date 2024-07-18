@@ -113,7 +113,7 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
 
 
 <h3> ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3> 
-
+<p>
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
 <br>
 <strong>PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS</strong><br>
